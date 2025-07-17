@@ -1,3 +1,4 @@
+# for obstacle avoidance and goal-seeking
 import numpy as np
 import math
 
